@@ -70,6 +70,7 @@ Used **Follow → TCP Stream** to view the HTTP conversation between the client 
 
 ## 7. Privacy & Scope
 - Raw packet capture files are intentionally excluded to protect potentially sensitive network information.
+- Screenshots are provided as evidence of the analysis.
 - The investigation is limited to traffic observed during the capture period.
 - This project is intended for educational purposes and does not represent a complete security audit.
 
